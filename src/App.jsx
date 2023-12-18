@@ -173,10 +173,10 @@ function App() {
                         . Coded by{' '}
                         <a
                             className="text-FooterDefault"
-                            href="https://github.com/LOT-1024"
+                            href="https://github.com/mindmon30/Newsletter_sign-up_form_with_success_message_mindmon30"
                             target="_blank"
                         >
-                            LOT-1024
+                            mindmon30
                         </a>
                         .
                     </div>
